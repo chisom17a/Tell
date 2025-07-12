@@ -1,4 +1,5 @@
-const express = require("express");
+curl "https://api.telegram.org/bot8030909532:AAG_7HiUBnra6TgP2jLYkH39cj9diUujh78/setWebhook?url=https://telegram-bot.vercel.app/api/webhook"
+  const express = require("express");
 const bodyParser = require("body-parser");
 const fetch = require("node-fetch");
 
